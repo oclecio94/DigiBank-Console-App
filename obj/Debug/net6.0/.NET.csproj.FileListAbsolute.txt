@@ -1,0 +1,15 @@
+C:\Users\oclecio-pc\Desktop\.NET\bin\Debug\net6.0\.NET.exe
+C:\Users\oclecio-pc\Desktop\.NET\bin\Debug\net6.0\.NET.deps.json
+C:\Users\oclecio-pc\Desktop\.NET\bin\Debug\net6.0\.NET.runtimeconfig.json
+C:\Users\oclecio-pc\Desktop\.NET\bin\Debug\net6.0\.NET.dll
+C:\Users\oclecio-pc\Desktop\.NET\bin\Debug\net6.0\.NET.pdb
+C:\Users\oclecio-pc\Desktop\.NET\obj\Debug\net6.0\.NET.csproj.AssemblyReference.cache
+C:\Users\oclecio-pc\Desktop\.NET\obj\Debug\net6.0\.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oclecio-pc\Desktop\.NET\obj\Debug\net6.0\.NET.AssemblyInfoInputs.cache
+C:\Users\oclecio-pc\Desktop\.NET\obj\Debug\net6.0\.NET.AssemblyInfo.cs
+C:\Users\oclecio-pc\Desktop\.NET\obj\Debug\net6.0\.NET.csproj.CoreCompileInputs.cache
+C:\Users\oclecio-pc\Desktop\.NET\obj\Debug\net6.0\.NET.dll
+C:\Users\oclecio-pc\Desktop\.NET\obj\Debug\net6.0\refint\.NET.dll
+C:\Users\oclecio-pc\Desktop\.NET\obj\Debug\net6.0\.NET.pdb
+C:\Users\oclecio-pc\Desktop\.NET\obj\Debug\net6.0\.NET.genruntimeconfig.cache
+C:\Users\oclecio-pc\Desktop\.NET\obj\Debug\net6.0\ref\.NET.dll
